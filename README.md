@@ -39,7 +39,7 @@ To go to the next level use LEFT CTRL when instructed on the screen.
 
 Play the game on Itch.io:
 
-Github: https://littlegamers2021.itch.io/icytowerprisonbreak
+https://littlegamers2021.itch.io/icytowerprisonbreak
 
 ## Credits
 
